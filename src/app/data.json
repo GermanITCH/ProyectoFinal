@@ -1,0 +1,29 @@
+{
+  "heroes": [
+    {
+      "name": "hulk",
+      "descripcion": "tesxt",
+      "poder": "agua",
+      "id": 17
+    },
+    {
+      "name": "German",
+      "descripcion": "alto",
+      "poder": "fuego",
+      "id": 18,
+      "uni": "Dc"
+    },
+    {
+      "name": "logan",
+      "descripcion": "bbbb",
+      "poder": "aaa",
+      "id": 19
+    },
+    {
+      "name": "super",
+      "descripcion": "bbbb",
+      "poder": "aaa",
+      "id": 20
+    }
+  ]
+}
